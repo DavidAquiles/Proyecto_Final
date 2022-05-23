@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\r\n@author\ Danna\ Mendoza,\ Evelyn\ Zapata,\ David\ Blandon,\ John\ Montoya\r\n@version\ Versi\u00F3n\ 1.0\r\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ Este\ es\ el\ m\u00E9todo\ principal\ del\ proyecto\r\n\ en\ este\ se\ carga\ el\ archivo\ a\ trabajar\ e\ invoca\ el\ men\u00FA\ principal\r\n
+comment2.params=
+comment2.target=void\ menu()
+comment2.text=\r\n\ M\u00E9todo\ que\ despliega\ el\ men\u00FA\ principal\r\n\ En\ este\ se\ capturan\ las\ opciones\ que\ el\ usuario\ desea\ ejecuta\r\n\ y\ hace\ el\ llamado\ a\ invocarMetodo()\r\n
+comment3.params=opcion\ campo\ val
+comment3.target=void\ invocarMetodo(int,\ java.lang.String,\ double)
+comment3.text=\r\n\ Este\ m\u00E9doto\ se\ encarga\ de\ llamar\ a\ los\ m\u00E9todos\ de\ la\ clase\ MarcoDeDatos\r\n\ seg\u00FAn\ los\ par\u00E1metros\ ingresados\ por\ el\ usuario\r\n\ @param\ opcion\:\ Recibe\ el\ tipo\ de\ operaci\u00F3n\ que\ el\ usuario\ desea\ ejecutar\r\n\ @param\ campo\:\ Recibe\ el\ campo\ por\ el\ cual\ se\ desea\ operar\r\n\ @param\ val\:\ Recibe\ el\ valor\ por\ el\ cual\ se\ desea\ filtrar\r\n
+numComments=4
